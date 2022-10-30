@@ -1,0 +1,16 @@
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.exe
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.deps.json
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.runtimeconfig.json
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.runtimeconfig.dev.json
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\bin\Debug\net5.0\questao_tres.pdb
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.csproj.AssemblyReference.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.AssemblyInfoInputs.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.AssemblyInfo.cs
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.csproj.CoreCompileInputs.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\refint\questao_tres.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.pdb
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\questao_tres.genruntimeconfig.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_tres\obj\Debug\net5.0\ref\questao_tres.dll

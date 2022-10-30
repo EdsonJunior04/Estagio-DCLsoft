@@ -1,0 +1,16 @@
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.exe
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.deps.json
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.runtimeconfig.json
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.runtimeconfig.dev.json
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_um\bin\Debug\net5.0\questao_um.pdb
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.csproj.AssemblyReference.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.GeneratedMSBuildEditorConfig.editorconfig
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.AssemblyInfoInputs.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.AssemblyInfo.cs
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.csproj.CoreCompileInputs.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\refint\questao_um.dll
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.pdb
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\questao_um.genruntimeconfig.cache
+E:\SENAI\Processos_seletivos\Estagio\questao_um\obj\Debug\net5.0\ref\questao_um.dll
