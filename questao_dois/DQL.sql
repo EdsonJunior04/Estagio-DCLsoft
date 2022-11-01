@@ -16,7 +16,7 @@ nome_cor AS 'Cor do Produto',
 /*  Preco do Produto (PRC_PROD + PRC_COR) 
 	O preco do produto com um desconto de 10 porcento
 */
-FORMAT(prc_prod - ( prc_prod * 10/100)  + PRC_COR , 'c', 'pt-br') AS 'Preco do Produto'
+FORMAT(prc_prod *  110/100 *  90/100  + PRC_COR , 'c', 'pt-br') AS 'Preco do Produto'
 FROM PRODUTOS [p]
 INNER JOIN CORES [c] 
 ON p.idProdutos = c.idProdutos
